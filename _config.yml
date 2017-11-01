@@ -6,16 +6,16 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-location: San Francisco , CA
+yourname: Dédalo Arquitectos  ## put your name
+location: Ronda de Outeiro 176, Entreplanta Izquierda
 
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
-twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
+facebook: http://www.facebook.com/dedaloarquitectos  ## your facebook account url
+twitter: http://www.twitter.com/dedaloarquitectos  ## your twitter account url
+linkedin: http://www.linkedin.com/fernandobarbeito  ## your linkedin account url
+##dribbble: http://www.dribble.com  ## you dribbble account url
+##foursquare: http://www.foursquare.com  ## your foursquare account url
 
 
 
